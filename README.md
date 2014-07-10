@@ -17,9 +17,9 @@ You will receive the mails on your github account's mail address.
 
 ### Sending mails
 
-Sending mails to the mailing list can be done in two different ways:
+You can send mails to the mailing list in two different ways:
 
-1. If you are logged in to your github account, you can use the rrespective mailing list's web form.
+1. If you are logged in to your github account, you can use the respective mailing list's web form.
 2. You can simply respond to a prior mail received from the mailing list and it will be sent to all subscribers.
 
 
