@@ -1,3 +1,3 @@
-# Scala Enthusiasts Braunschweig Mailing List
+# scala-bs Mailing List
 
 This Repository contains our mailing list.
