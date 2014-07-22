@@ -7,7 +7,7 @@ The folowing lists are available:
 + [Meetups][meet]
 + [Organizational][orga]
 
-If you are interested in our monthly meetups, please subscribe to the [Meetups][1] mailing list. The [Organizational][2] mailing list deals with internal issues.
+If you are interested in our monthly meetups, please subscribe to the [Meetups][meet] mailing list. The [Organizational][orga] mailing list deals with internal issues.
 
 
 ### Subscribing
