@@ -1,6 +1,6 @@
-This is the place for our mailing lists and wiki.
+This is the place for our [mailing lists](#mailing-lists) and [wiki](#wiki).
 
-## Mailing Lists
+## <a name="mailing-lists">Mailing Lists</a>
 
 The folowing lists are available:
 
@@ -24,7 +24,7 @@ You can send mails to the mailing list in two different ways:
 
 
 
-## Wiki
+## <a name="wiki">Wiki</a>
 
 The [Wiki][wiki] is a knowledge base for all tasks necessary for organizing the user group. It contains the following tasks:
 
