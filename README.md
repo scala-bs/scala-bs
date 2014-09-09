@@ -26,9 +26,7 @@ You can send mails to the mailing list in two different ways:
 
 ## <a name="wiki">Wiki</a>
 
-The [Wiki][wiki] is a knowledge base for all tasks necessary for organizing the user group. It contains the following tasks:
-
-+ [Advertizing a Meeting][advertize]
+The [Wiki][wiki] is a knowledge base for all tasks necessary for organizing the user group.
 
 
 
